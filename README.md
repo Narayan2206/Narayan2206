@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me:
+
+🔭 I’m currently working on:
+Fullstack Projects
+
+🌱 I’m currently learning:
+Next.js, TypeScript
+
 
 <!--
 **Narayan2206/Narayan2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
