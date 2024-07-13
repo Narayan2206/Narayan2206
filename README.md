@@ -1,4 +1,5 @@
 # About Me:
+I am a recent graduate and aspiring web developer with a strong foundation in JavaScript, React, Node.js, HTML, and CSS. Currently enhancing my skills in web development, I am passionate about creating dynamic and responsive web applications.
 
 🔭 I’m currently working on:
 Fullstack Projects
