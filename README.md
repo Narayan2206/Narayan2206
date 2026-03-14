@@ -7,6 +7,14 @@ Fullstack Projects
 🌱 I’m currently learning:
 Next.js, TypeScript
 
+<!--
+## Hi there 👋 I'm Narayan
+
+Frontend Developer with hands-on experience building production web applications using **React.js, TypeScript, and modern JavaScript**.
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,next,react,tailwind,html,css,git,github,vscode,supabase)
+
+-->
 
 <!--
 **Narayan2206/Narayan2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
